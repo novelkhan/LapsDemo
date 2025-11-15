@@ -1,0 +1,55 @@
+﻿<script src="~/Scripts/eAzolution/BDStudent/BDStudentDetails.js"></script>
+
+<div class="rightDiv widthSize75_per">
+    <div class="divDetails k-block">
+        <h2 class="k-header centerAlign"> Student Details </h2>
+        <input type="hidden" id="hdnStudentID" />
+        <ul>
+            <li>
+                <label class="lbl widthSize35_per rightAlign"> Student First Name: </label>
+                <input type="text" class="k-textbox" id="txtStudentFirstName" placeholder="Student First Name" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign"> Student Last Name: </label>
+                <input type="text" class="k-textbox" id="txtStudentLastName" placeholder="Student Last Name" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign"> Date Of Birth: </label>
+                <input id="txtDateOfBirth" placeholder="Date Of Birth" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign">Gender : </label>
+                <input type="radio" name="Gender" id="rdMale" value="0" /> Male
+                <input type="radio" name="Gender" id="rdFemale" value="1" /> Female
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign">Email : </label>
+                <input class="k-textbox" id="txtEmail" placeholder="xxx@xxx.com" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign">Mobile No : </label>
+                <input type="number" class="k-textbox" id="txtMobileNo" placeholder="01XXX XXX XXX" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign">Subject : </label>
+                <input id="ddlSubject" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign">Is_Active : </label>
+                <input type="checkbox" id="chkIs_Active" name="IsActive" class="k-checkbox" />
+            </li>
+
+            <li class="accept lbl widthSize35_per rightAlign">
+                <button id="btnSave" class="k-button" type="submit">Save</button>
+                <button id="btnClearAll" class="k-button" onclick="StudentDetailsHelper.ClearFrom()">Clear</button>
+            </li>
+        </ul>
+    </div>
+</div>

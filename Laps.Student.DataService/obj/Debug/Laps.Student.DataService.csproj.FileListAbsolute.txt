@@ -1,0 +1,37 @@
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Laps.Student.DataService.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Laps.Student.DataService.pdb
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Entities.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Utilities.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Common.DataService.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Common.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Newtonsoft.Json.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Entities.pdb
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.csproj.AssemblyReference.cache
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.csproj.CoreCompileInputs.cache
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.csproj.CopyComplete
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.dll
+D:\Aminul\Nawas Vai\Nawas Vai\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.pdb
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Laps.Student.DataService.dll
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Laps.Student.DataService.pdb
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Entities.dll
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Utilities.dll
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Common.DataService.dll
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Common.dll
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Entities.pdb
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.dll
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.pdb
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.csprojResolveAssemblyReference.cache
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Laps.Student.DataService.dll
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Laps.Student.DataService.pdb
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Entities.dll
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Utilities.dll
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Common.dll
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Newtonsoft.Json.dll
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\bin\Debug\Azolution.Entities.pdb
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.csproj.AssemblyReference.cache
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.csproj.CoreCompileInputs.cache
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.csproj.CopyComplete
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.dll
+E:\laps\LAPS_V_2_2_0\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.pdb

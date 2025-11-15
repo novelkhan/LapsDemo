@@ -1,0 +1,44 @@
+﻿<script src="~/Scripts/eAzolution/Sales/Mobile/MobileDetails.js"></script>
+<div class="divDetails">
+    <div class="k-block" >
+        <h2  class="k-header centerAlign">Mobile Details</h2>
+        <input type="hidden" id="hdnMobileId" />
+        <ul>
+            <li>
+                <label class="lbl widthSize20_per rightAlign">ModelName</label>
+                <input class="k-textbox" id="txtModelName" />
+            </li>
+            <li>
+                <label class="lbl widthSize20_per rightAlign">Brand</label>
+                <input id="cmbBrand" />
+            </li>
+            <li>
+                <label class="lbl widthSize20_per rightAlign">Color</label>
+                <input id="cmbColor" />
+            </li>
+            <li>
+                <label class="lbl widthSize20_per rightAlign">Price</label>
+                <input class="k-textbox" id="txtPrice" />
+            </li>
+            <li>
+                <label class="lbl widthSize20_per rightAlign">Is5G</label>
+                <input type="radio" name="Is5G" id="rd5G" value="1" /> Yes
+                <input type="radio" name="Is5G" id="rdnot5G" value="0" /> No
+            </li>
+
+            <li>
+                <label class="lbl widthSize20_per rightAlign">IsSmart</label>
+                <input type="checkbox" id="chkIsSmart" name="IsActive" class="k-checkbox" />
+             
+            </li>
+            <li class="accept">
+                <button id="btnSave" class="k-button" type="submit">Save</button>
+                <button id="btnClearAll" class="k-button">Clear</button>
+                <button id="btnDelete" class="k-button">Delete</button>
+                <button id="hdnUpdate" class="k-button" style="display: none;">Update</button>
+           </li>
+           
+        </ul>
+        </div>
+
+    </div>

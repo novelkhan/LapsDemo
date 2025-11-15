@@ -1,0 +1,60 @@
+﻿<script src="~/Scripts/eAzolution/Registrations/RegistrationsDetails.js"></script>
+
+<div class="rightDiv widthSize75_per">
+    <div class="divDetails k-block">
+        <h2 class="k-header centerAlign"> Customer Details </h2>
+        <input type="hidden" id="hdnCustomerID" />
+        <ul>
+            <li>
+                <label class="lbl widthSize35_per rightAlign"> Name: </label>
+                <input type="text" class="k-textbox" id="txtCus_Name" placeholder="customer name" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign"> Email: </label>
+                <input type="email" class="k-textbox" id="txtCus_Email" placeholder="xxxx@xxx.com" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign"> Mobile: </label>
+                <input type="number" class="k-textbox" id="txtCus_Mobile" placeholder="01xxx-xxxxxx" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign">Gender: </label>
+                <input type="radio" name="Gender" id="rdMale" value="1" /> Male
+                <input type="radio" name="Gender" id="rdFemale" value="2" /> Female
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign"> Date Of Birth: </label>
+                <input id="txtCus_DOB" placeholder="Date Of Birth" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign"> Customer Type: </label>
+                <input id="ddlCus_Type" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign"> Password: </label>
+                <input type="password" class="k-textbox" id="txtCus_Password" placeholder="password" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign"> Re-Enter Password: </label>
+                <input type="password" class="k-textbox" id="txtCus_RePassword" placeholder="re-enter password" />
+            </li>
+
+            <li>
+                <label class="lbl widthSize35_per rightAlign">Is Active? </label>
+                <input type="checkbox" id="chkIs_Active" name="IsActive" class="k-checkbox" />
+            </li>
+
+            <li class="accept lbl widthSize35_per rightAlign">
+                <button id="btnSave" class="k-button" type="submit">Save</button>
+                <button id="btnClearAll" class="k-button" onclick="RegistrationsDetailsHelper.ClearForm()">Clear</button>
+            </li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+﻿<script src="~/Scripts/eAzolution/Registrations/RegistrationsSettings.js"></script>
+<script src="~/Scripts/eAzolution/Registrations/RegistrationsDetails.js"></script>
+<script src="~/Scripts/eAzolution/Registrations/RegistrationsSummary.js"></script>
+
+
+@{
+    ViewBag.Title = "Registrations";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="maindiv">
+    <h2 class="k-header centerAlign">Customers Info</h2>
+    <div class="leftDiv" style="text-align: center;">
+        @Html.Partial("~/Views/Registrations/_RegistrationsSummary.cshtml")
+    </div>
+    <div class="rightDiv">
+        @Html.Partial("~/Views/Registrations/_RegistrationsDetails.cshtml")
+    </div>
+</div>

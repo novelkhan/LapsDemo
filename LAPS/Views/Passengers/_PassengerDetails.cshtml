@@ -1,0 +1,64 @@
+﻿@Scripts.Render("~/Scripts/eAzolution/Sales/Passengers/PassengerDetails.js")
+
+<div class="rightDiv widthSize65_per">
+    <div id="PassengerDiv" class="divDetails">
+        <div class="k-block">
+            <h2 class="k-header centerAlign">Passenger Details</h2>
+            <input type="hidden" id="hdnPassengerID" />
+            <ul>
+                <li>
+                    <label class="lbl widthSize35_per rightAlign">Passenger Name : </label>
+                    <input class="k-textbox" id="txtPassengerName" placeholder="Passenger Name" required title="Please Insert Name" />
+                </li>
+
+                <li>
+                    <label for="ddlDob" class="required lbl widthSize35_per rightAlign">Date of Birth : </label>
+                    <input id="txtDateOfBirth" name="ddlDob" placeholder="Date Of Birth" required title="Please Insert Date Of Birth" />
+                </li>
+
+                <li>
+                    <label class="lbl widthSize35_per rightAlign">Gender : </label>
+                    <input type="radio" name="Gender" id="rdMale" value="0" /> Male
+                    <input type="radio" name="Gender" id="rdFemale" value="1" /> Female
+                </li>
+
+                <li>
+                    <label class="lbl widthSize35_per rightAlign">Email : </label>
+                    <input class="k-textbox" id="txtEmail" placeholder="xxx@xxx.com" required title="Please Insert Email" />
+                </li>
+
+                <li>
+                    <label class="lbl widthSize35_per rightAlign">Phone : </label>
+                    <input type="number" class="k-textbox" id="txtPhone" placeholder="01XXX XXX XXX" required title="Please Insert Phone No" />
+                </li>
+
+                <li>
+                    <label class="lbl widthSize35_per rightAlign">Train : </label>
+                    <input id="cmbTrain" required title="Please Select Train" />
+                </li>
+
+                <li>
+                    <label class="lbl widthSize35_per rightAlign">Route : </label>
+                    <input id="cmbRoute" required title="Please Select Route" />
+                </li>
+
+                <li>
+                    <label class="lbl widthSize35_per rightAlign">Class : </label>
+                    <input id="cmbClass" required title="Please Select Class" />
+                </li>
+
+                <li>
+                    <label class="lbl widthSize35_per rightAlign">Is_Pay : </label>
+                    <input type="checkbox" id="chkIs_Pay" name="IsActive" class="k-checkbox" />
+
+                </li>
+
+                <li class="accept widthSize35_per rightAlign">
+                    <button id="btnSave" class="k-button" type="submit">Save</button>
+                    <button id="btnClearAll" class="k-button" onclick="PassengerDetailsHelper.ClearPassengerForm()">Clear</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+

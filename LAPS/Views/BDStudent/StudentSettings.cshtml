@@ -1,0 +1,19 @@
+﻿<script src="~/Scripts/eAzolution/BDStudent/BDStudentSettings.js"></script>
+<script src="~/Scripts/eAzolution/BDStudent/BDStudentDetails.js"></script>
+<script src="~/Scripts/eAzolution/BDStudent/BDStudentSummary.js"></script>
+
+@{
+    ViewBag.Title = "BD Student";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="maindiv">
+    <h2 class="k-header centerAlign">STUDENT INFO</h2>
+    <div class="leftDiv" style="text-align: center;">
+        @Html.Partial("~/Views/BDStudent/_StudentSummary.cshtml");
+    </div>
+    <div class="rightDiv">
+        @Html.Partial("~/Views/BDStudent/_StudentDetails.cshtml");
+    </div>
+</div>
+

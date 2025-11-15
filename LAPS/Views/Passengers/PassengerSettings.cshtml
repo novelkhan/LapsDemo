@@ -1,0 +1,17 @@
+﻿<script src="~/Scripts/eAzolution/Sales/Passengers/PassengerSettings.js"></script>
+<script src="~/Scripts/eAzolution/Sales/Passengers/PassengerDetails.js"></script>
+<script src="~/Scripts/eAzolution/Sales/Passengers/PassengerSummary.js"></script>
+
+@{
+    ViewBag.Title = "Passenger Info";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="maindiv" class="">
+    <h2 class="k-header centerAlign">PASSENGER INFO</h2>
+    <div class="leftDiv" style="text-align:center;">
+        @Html.Partial("~/Views/Passengers/_PassengerSummary.cshtml")
+    </div>
+    <div class="rightDiv">
+        @Html.Partial("~/Views/Passengers/_PassengerDetails.cshtml")
+    </div>
+</div>
