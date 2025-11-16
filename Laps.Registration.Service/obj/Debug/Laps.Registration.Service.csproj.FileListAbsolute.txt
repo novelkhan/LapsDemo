@@ -18,7 +18,6 @@ E:\laps\LAPS_V_2_2_0\Laps.Registration.Service\bin\Debug\Laps.Registration.DataS
 E:\laps\LAPS_V_2_2_0\Laps.Registration.Service\bin\Debug\Utilities.dll
 E:\laps\LAPS_V_2_2_0\Laps.Registration.Service\bin\Debug\Azolution.Common.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.Registration.Service\bin\Debug\Azolution.Common.dll
-E:\laps\LAPS_V_2_2_0\Laps.Registration.Service\bin\Debug\Newtonsoft.Json.dll
 E:\laps\LAPS_V_2_2_0\Laps.Registration.Service\bin\Debug\Azolution.Entities.pdb
 E:\laps\LAPS_V_2_2_0\Laps.Registration.Service\bin\Debug\Laps.Registration.DataService.pdb
 E:\laps\LAPS_V_2_2_0\Laps.Registration.Service\obj\Debug\Laps.Registration.Service.csproj.AssemblyReference.cache

@@ -1,0 +1,18 @@
+﻿<script src="~/Scripts/eAzolution/NEmployees/NEmployeesSettings.js"></script>
+<script src="~/Scripts/eAzolution/NEmployees/NEmployeesDetails.js"></script>
+<script src="~/Scripts/eAzolution/NEmployees/NEmployeesSummary.js"></script>
+
+@{
+    ViewBag.Title = "Employee";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="maindiv">
+    <h2 class="k-header centerAlign">EMPLOYEE INFO</h2>
+    <div class="leftDiv" style="text-align: center;">
+        @Html.Partial("~/Views/NEmployee/_NEmployeesSummary.cshtml")
+    </div>
+    <div class="rightDiv">
+        @Html.Partial("~/Views/NEmployee/_NEmployeesDetails.cshtml")
+    </div>
+</div>

@@ -1,0 +1,5 @@
+E:\laps\LAPS_V_2_2_0\Laps.Person.Service\bin\Debug\Laps.Person.Service.dll
+E:\laps\LAPS_V_2_2_0\Laps.Person.Service\bin\Debug\Laps.Person.Service.pdb
+E:\laps\LAPS_V_2_2_0\Laps.Person.Service\obj\Debug\Laps.Person.Service.csproj.CoreCompileInputs.cache
+E:\laps\LAPS_V_2_2_0\Laps.Person.Service\obj\Debug\Laps.Person.Service.dll
+E:\laps\LAPS_V_2_2_0\Laps.Person.Service\obj\Debug\Laps.Person.Service.pdb

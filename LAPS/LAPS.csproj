@@ -174,6 +174,7 @@
     <Compile Include="Controllers\DiscountController.cs" />
     <Compile Include="Controllers\DoctorsController.cs" />
     <Compile Include="Controllers\EmployeeController.cs" />
+    <Compile Include="Controllers\EmployeesController.cs" />
     <Compile Include="Controllers\GraphAndChartController.cs" />
     <Compile Include="Controllers\IncentiveSettingsController.cs" />
     <Compile Include="Controllers\IsTeacherRepository.cs" />
@@ -2210,6 +2211,9 @@
     <Content Include="Scripts\eAzolution\HumanResource\TeacherEducationInfo\TeacherEducationInfoDetails.js" />
     <Content Include="Scripts\eAzolution\HumanResource\TeacherEducationInfo\TeacherEducationInfoSetting.js" />
     <Content Include="Scripts\eAzolution\HumanResource\TeacherEducationInfo\TeacherEducationInfoSummary.js" />
+    <Content Include="Scripts\eAzolution\NEmployees\NEmployeesDetails.js" />
+    <Content Include="Scripts\eAzolution\NEmployees\NEmployeesSettings.js" />
+    <Content Include="Scripts\eAzolution\NEmployees\NEmployeesSummary.js" />
     <Content Include="Scripts\eAzolution\Registrations\RegistrationsDetails.js" />
     <Content Include="Scripts\eAzolution\Registrations\RegistrationsSettings.js" />
     <Content Include="Scripts\eAzolution\Registrations\RegistrationsSummary.js" />
@@ -4751,6 +4755,9 @@
     <Content Include="Views\Registrations\RegistrationsSettings.cshtml" />
     <Content Include="Views\Registrations\_RegistrationsDetails.cshtml" />
     <Content Include="Views\Registrations\_RegistrationsSummary.cshtml" />
+    <Content Include="Views\NEmployee\_NEmployeesDetails.cshtml" />
+    <Content Include="Views\NEmployee\NEmployeesSettings.cshtml" />
+    <Content Include="Views\NEmployee\_NEmployeesSummary.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -4826,6 +4833,10 @@
     <ProjectReference Include="..\Laps.Customer.Service\Laps.Customer.Service.csproj">
       <Project>{4594d63d-7ac2-4580-be0f-334f4cffc7d6}</Project>
       <Name>Laps.Customer.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Laps.Employees.Service\Laps.Employees.Service.csproj">
+      <Project>{3e734e6e-8dc7-4ef0-bb9b-cf2c375d37cc}</Project>
+      <Name>Laps.Employees.Service</Name>
     </ProjectReference>
     <ProjectReference Include="..\Laps.Mobile.Service\Laps.Mobile.Service.csproj">
       <Project>{00a85fbd-0dad-4a61-aa02-2eaed824b802}</Project>

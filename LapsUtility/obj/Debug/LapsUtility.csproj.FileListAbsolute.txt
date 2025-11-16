@@ -40,11 +40,6 @@ C:\Users\Azolution\Desktop\LAPS_V_2_2_0\LapsUtility\bin\Debug\Newtonsoft.Json.dl
 C:\Users\Azolution\Desktop\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.csprojResolveAssemblyReference.cache
 C:\Users\Azolution\Desktop\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.dll
 C:\Users\Azolution\Desktop\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.pdb
-E:\Laps\LAPS_V_2_2_0\LapsUtility\bin\Debug\LapsUtility.dll
-E:\Laps\LAPS_V_2_2_0\LapsUtility\bin\Debug\LapsUtility.pdb
-E:\Laps\LAPS_V_2_2_0\LapsUtility\bin\Debug\Newtonsoft.Json.dll
-E:\Laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.dll
-E:\Laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.pdb
 D:\LAPS\Laps\LAPS_V_2_2_0\LapsUtility\bin\Debug\LapsUtility.dll
 D:\LAPS\Laps\LAPS_V_2_2_0\LapsUtility\bin\Debug\LapsUtility.pdb
 D:\LAPS\Laps\LAPS_V_2_2_0\LapsUtility\bin\Debug\Newtonsoft.Json.dll
@@ -76,6 +71,10 @@ C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\LapsUtility\bin\Debug\LapsUtility.pdb
 C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\LapsUtility\bin\Debug\Newtonsoft.Json.dll
 C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.dll
 C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.pdb
-E:\laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.csproj.AssemblyReference.cache
+E:\laps\LAPS_V_2_2_0\LapsUtility\bin\Debug\LapsUtility.dll
+E:\laps\LAPS_V_2_2_0\LapsUtility\bin\Debug\LapsUtility.pdb
+E:\laps\LAPS_V_2_2_0\LapsUtility\bin\Debug\Newtonsoft.Json.dll
 E:\laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.csproj.CoreCompileInputs.cache
 E:\laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.csproj.CopyComplete
+E:\laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.dll
+E:\laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.pdb

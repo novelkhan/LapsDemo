@@ -94,14 +94,17 @@
     <Compile Include="HumanResource\Bank.cs" />
     <Compile Include="HumanResource\BankBranch.cs" />
     <Compile Include="HumanResource\Branch.cs" />
+    <Compile Include="HumanResource\Cities.cs" />
     <Compile Include="HumanResource\DashBoard.cs" />
     <Compile Include="HumanResource\Department.cs" />
     <Compile Include="HumanResource\Designation.cs" />
     <Compile Include="HumanResource\Doctor.cs" />
     <Compile Include="HumanResource\DoctorEducationInfo.cs" />
+    <Compile Include="HumanResource\Employees.cs" />
     <Compile Include="HumanResource\NewCustomer.cs" />
     <Compile Include="HumanResource\NewProduct.cs" />
     <Compile Include="HumanResource\Patient.cs" />
+    <Compile Include="HumanResource\Person.cs" />
     <Compile Include="HumanResource\PersonalDetails.cs" />
     <Compile Include="HumanResource\ProductModel.cs" />
     <Compile Include="HumanResource\Products.cs" />

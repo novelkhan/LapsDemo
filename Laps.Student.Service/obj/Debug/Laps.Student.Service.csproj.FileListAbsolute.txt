@@ -29,12 +29,13 @@ C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Laps.Student.Service\obj\Debug\Laps.Stud
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Laps.Student.Service.dll
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Laps.Student.Service.pdb
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Azolution.Entities.dll
+E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Laps.Employees.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Laps.Student.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Utilities.dll
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Azolution.Common.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Azolution.Common.dll
-E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Newtonsoft.Json.dll
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Azolution.Entities.pdb
+E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Laps.Employees.DataService.pdb
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\bin\Debug\Laps.Student.DataService.pdb
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\obj\Debug\Laps.Student.Service.csproj.AssemblyReference.cache
 E:\laps\LAPS_V_2_2_0\Laps.Student.Service\obj\Debug\Laps.Student.Service.csproj.CoreCompileInputs.cache

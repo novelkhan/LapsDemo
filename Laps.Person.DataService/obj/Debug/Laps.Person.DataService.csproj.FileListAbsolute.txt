@@ -1,0 +1,5 @@
+E:\laps\LAPS_V_2_2_0\Laps.Person.DataService\bin\Debug\Laps.Person.DataService.dll
+E:\laps\LAPS_V_2_2_0\Laps.Person.DataService\bin\Debug\Laps.Person.DataService.pdb
+E:\laps\LAPS_V_2_2_0\Laps.Person.DataService\obj\Debug\Laps.Person.DataService.csproj.CoreCompileInputs.cache
+E:\laps\LAPS_V_2_2_0\Laps.Person.DataService\obj\Debug\Laps.Person.DataService.dll
+E:\laps\LAPS_V_2_2_0\Laps.Person.DataService\obj\Debug\Laps.Person.DataService.pdb

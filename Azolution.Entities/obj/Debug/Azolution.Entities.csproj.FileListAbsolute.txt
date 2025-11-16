@@ -32,10 +32,6 @@ C:\Users\Azolution\Desktop\LAPS_V_2_2_0\Azolution.Entities\bin\Debug\Azolution.E
 C:\Users\Azolution\Desktop\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.csprojResolveAssemblyReference.cache
 C:\Users\Azolution\Desktop\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.dll
 C:\Users\Azolution\Desktop\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.pdb
-E:\Laps\LAPS_V_2_2_0\Azolution.Entities\bin\Debug\Azolution.Entities.dll
-E:\Laps\LAPS_V_2_2_0\Azolution.Entities\bin\Debug\Azolution.Entities.pdb
-E:\Laps\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.dll
-E:\Laps\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.pdb
 D:\LAPS\Laps\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.csprojResolveAssemblyReference.cache
 D:\LAPS\Laps\LAPS_V_2_2_0\Azolution.Entities\bin\Debug\Azolution.Entities.dll
 D:\LAPS\Laps\LAPS_V_2_2_0\Azolution.Entities\bin\Debug\Azolution.Entities.pdb
@@ -60,5 +56,8 @@ C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Azolution.Entities\bin\Debug\Azolution.E
 C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Azolution.Entities\bin\Debug\Azolution.Entities.pdb
 C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.dll
 C:\Users\sohel\Desktop\SAS\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.pdb
-E:\laps\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.csproj.AssemblyReference.cache
+E:\laps\LAPS_V_2_2_0\Azolution.Entities\bin\Debug\Azolution.Entities.dll
+E:\laps\LAPS_V_2_2_0\Azolution.Entities\bin\Debug\Azolution.Entities.pdb
 E:\laps\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.csproj.CoreCompileInputs.cache
+E:\laps\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.dll
+E:\laps\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.pdb

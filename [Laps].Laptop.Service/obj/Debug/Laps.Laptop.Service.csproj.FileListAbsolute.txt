@@ -168,8 +168,8 @@ E:\laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\VBCSCompiler.exe
 E:\laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\roslyn\VBCSCompiler.exe.config
 E:\laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\laps\LAPS_V_2_2_0\[Laps].Laptop.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.AssemblyReference.cache
 E:\laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.CoreCompileInputs.cache
 E:\laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\[Laps].Laptop.Service.dll
 E:\laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\[Laps].Laptop.Service.pdb
+E:\laps\LAPS_V_2_2_0\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.AssemblyReference.cache

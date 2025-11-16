@@ -15,9 +15,7 @@ E:\laps\LAPS_V_2_2_0\Laps.Registration.DataService\bin\Debug\Azolution.Entities.
 E:\laps\LAPS_V_2_2_0\Laps.Registration.DataService\bin\Debug\Utilities.dll
 E:\laps\LAPS_V_2_2_0\Laps.Registration.DataService\bin\Debug\Azolution.Common.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.Registration.DataService\bin\Debug\Azolution.Common.dll
-E:\laps\LAPS_V_2_2_0\Laps.Registration.DataService\bin\Debug\Newtonsoft.Json.dll
 E:\laps\LAPS_V_2_2_0\Laps.Registration.DataService\bin\Debug\Azolution.Entities.pdb
-E:\laps\LAPS_V_2_2_0\Laps.Registration.DataService\obj\Debug\Laps.Registration.DataService.csproj.AssemblyReference.cache
 E:\laps\LAPS_V_2_2_0\Laps.Registration.DataService\obj\Debug\Laps.Registration.DataService.csproj.CoreCompileInputs.cache
 E:\laps\LAPS_V_2_2_0\Laps.Registration.DataService\obj\Debug\Laps.Registration.DataService.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Laps.Registration.DataService\obj\Debug\Laps.Registration.DataService.dll

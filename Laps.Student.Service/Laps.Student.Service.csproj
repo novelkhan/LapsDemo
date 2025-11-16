@@ -53,6 +53,10 @@
       <Project>{AD1A0FFF-AF60-4056-ABA5-F5F7E712E34E}</Project>
       <Name>Azolution.Entities</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Laps.Employees.DataService\Laps.Employees.DataService.csproj">
+      <Project>{fd286e4e-9e89-47cc-b6b1-2e37ab9b12c5}</Project>
+      <Name>Laps.Employees.DataService</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Laps.Student.DataService\Laps.Student.DataService.csproj">
       <Project>{C7D88481-09DA-42AB-B9A2-30663902F19B}</Project>
       <Name>Laps.Student.DataService</Name>
