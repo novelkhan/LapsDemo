@@ -151,5 +151,8 @@ var EmployeeSummaryHelper = {
         else {
             $("#chkIs_Active").prop("checked", false);
         }
+
+        // Load Employee Education
+        EmployeeEducationManager.LoadEmployeeEducation(selectedData.EmployeeID);
     },
 };

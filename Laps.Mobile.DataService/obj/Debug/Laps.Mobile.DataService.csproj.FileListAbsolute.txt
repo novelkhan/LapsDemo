@@ -64,3 +64,14 @@ E:\laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.c
 E:\laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.pdb
+E:\laps\LapsDemo\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.dll
+E:\laps\LapsDemo\Laps.Mobile.DataService\bin\Debug\Laps.Mobile.DataService.pdb
+E:\laps\LapsDemo\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Laps.Mobile.DataService\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\Laps.Mobile.DataService\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\Laps.Mobile.DataService\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\Laps.Mobile.DataService\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.csproj.CopyComplete
+E:\laps\LapsDemo\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.dll
+E:\laps\LapsDemo\Laps.Mobile.DataService\obj\Debug\Laps.Mobile.DataService.pdb

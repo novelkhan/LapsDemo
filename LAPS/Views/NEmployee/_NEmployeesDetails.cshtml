@@ -1,4 +1,7 @@
-﻿<script src="~/Scripts/eAzolution/NEmployee/NEmployeesDetails.js"></script>
+﻿@model dynamic
+@using System.Web.Mvc.Html
+
+<script src="~/Scripts/eAzolution/NEmployees/NEmployeesDetails.js"></script>
 <div class="rightDiv widthSize75_per">
     <div class="divDetails k-block">
         <h2 class="k-header centerAlign"> Employee Details </h2>
@@ -45,6 +48,11 @@
                 <input type="checkbox" id="chkIs_Active" name="IsActive" class="k-checkbox" />
             </li>
 
+        </ul>
+
+        @Html.Partial("~/Views/NEmployee/_NEmployeeEducation.cshtml")
+
+        <ul>
             <li class="accept lbl widthSize35_per rightAlign">
                 <button id="btnSave" class="k-button" type="submit">Save</button>
                 <button id="btnClearAll" class="k-button" onclick="EmployeeDetailsHelper.ClearFrom()">Clear</button>

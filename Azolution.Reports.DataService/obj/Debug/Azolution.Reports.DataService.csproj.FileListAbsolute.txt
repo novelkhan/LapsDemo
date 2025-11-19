@@ -136,3 +136,14 @@ E:\laps\LAPS_V_2_2_0\Azolution.Reports.DataService\obj\Debug\Azolution.Reports.D
 E:\laps\LAPS_V_2_2_0\Azolution.Reports.DataService\obj\Debug\Azolution.Reports.DataService.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Azolution.Reports.DataService\obj\Debug\Azolution.Reports.DataService.dll
 E:\laps\LAPS_V_2_2_0\Azolution.Reports.DataService\obj\Debug\Azolution.Reports.DataService.pdb
+E:\laps\LapsDemo\Azolution.Reports.DataService\bin\Debug\Azolution.Reports.DataService.dll
+E:\laps\LapsDemo\Azolution.Reports.DataService\bin\Debug\Azolution.Reports.DataService.pdb
+E:\laps\LapsDemo\Azolution.Reports.DataService\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Azolution.Reports.DataService\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\Azolution.Reports.DataService\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\Azolution.Reports.DataService\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\Azolution.Reports.DataService\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Azolution.Reports.DataService\obj\Debug\Azolution.Reports.DataService.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Azolution.Reports.DataService\obj\Debug\Azolution.Reports.DataService.csproj.CopyComplete
+E:\laps\LapsDemo\Azolution.Reports.DataService\obj\Debug\Azolution.Reports.DataService.dll
+E:\laps\LapsDemo\Azolution.Reports.DataService\obj\Debug\Azolution.Reports.DataService.pdb

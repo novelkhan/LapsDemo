@@ -53,3 +53,17 @@ E:\laps\LAPS_V_2_2_0\Laps.Passengers.Service\obj\Debug\Laps.Passengers.Service.c
 E:\laps\LAPS_V_2_2_0\Laps.Passengers.Service\obj\Debug\Laps.Passengers.Service.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Laps.Passengers.Service\obj\Debug\Laps.Passengers.Service.dll
 E:\laps\LAPS_V_2_2_0\Laps.Passengers.Service\obj\Debug\Laps.Passengers.Service.pdb
+E:\laps\LapsDemo\Laps.Passengers.Service\bin\Debug\Laps.Passengers.Service.dll
+E:\laps\LapsDemo\Laps.Passengers.Service\bin\Debug\Laps.Passengers.Service.pdb
+E:\laps\LapsDemo\Laps.Passengers.Service\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Laps.Passengers.Service\bin\Debug\Laps.Passengers.DataService.dll
+E:\laps\LapsDemo\Laps.Passengers.Service\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\Laps.Passengers.Service\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\Laps.Passengers.Service\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\Laps.Passengers.Service\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Laps.Passengers.Service\bin\Debug\Laps.Passengers.DataService.pdb
+E:\laps\LapsDemo\Laps.Passengers.Service\obj\Debug\Laps.Passengers.Service.csproj.AssemblyReference.cache
+E:\laps\LapsDemo\Laps.Passengers.Service\obj\Debug\Laps.Passengers.Service.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Laps.Passengers.Service\obj\Debug\Laps.Passengers.Service.csproj.CopyComplete
+E:\laps\LapsDemo\Laps.Passengers.Service\obj\Debug\Laps.Passengers.Service.dll
+E:\laps\LapsDemo\Laps.Passengers.Service\obj\Debug\Laps.Passengers.Service.pdb

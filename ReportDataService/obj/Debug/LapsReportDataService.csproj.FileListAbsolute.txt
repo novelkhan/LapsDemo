@@ -138,3 +138,14 @@ E:\laps\LAPS_V_2_2_0\ReportDataService\obj\Debug\LapsReportDataService.csproj.Co
 E:\laps\LAPS_V_2_2_0\ReportDataService\obj\Debug\LapsReportDataService.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\ReportDataService\obj\Debug\ReportDataService.dll
 E:\laps\LAPS_V_2_2_0\ReportDataService\obj\Debug\ReportDataService.pdb
+E:\laps\LapsDemo\ReportDataService\bin\Debug\ReportDataService.dll
+E:\laps\LapsDemo\ReportDataService\bin\Debug\ReportDataService.pdb
+E:\laps\LapsDemo\ReportDataService\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\ReportDataService\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\ReportDataService\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\ReportDataService\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\ReportDataService\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\ReportDataService\obj\Debug\LapsReportDataService.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\ReportDataService\obj\Debug\LapsReportDataService.csproj.CopyComplete
+E:\laps\LapsDemo\ReportDataService\obj\Debug\ReportDataService.dll
+E:\laps\LapsDemo\ReportDataService\obj\Debug\ReportDataService.pdb

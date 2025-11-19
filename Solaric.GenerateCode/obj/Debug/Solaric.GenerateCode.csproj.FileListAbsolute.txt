@@ -107,3 +107,13 @@ E:\laps\LAPS_V_2_2_0\Solaric.GenerateCode\obj\Debug\Solaric.GenerateCode.csproj.
 E:\laps\LAPS_V_2_2_0\Solaric.GenerateCode\obj\Debug\Solaric.GenerateCode.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Solaric.GenerateCode\obj\Debug\Solaric.GenerateCode.dll
 E:\laps\LAPS_V_2_2_0\Solaric.GenerateCode\obj\Debug\Solaric.GenerateCode.pdb
+E:\laps\LapsDemo\Solaric.GenerateCode\bin\Debug\Solaric.GenerateCode.dll
+E:\laps\LapsDemo\Solaric.GenerateCode\bin\Debug\Solaric.GenerateCode.pdb
+E:\laps\LapsDemo\Solaric.GenerateCode\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Solaric.GenerateCode\bin\Debug\CodeGenaration.dll
+E:\laps\LapsDemo\Solaric.GenerateCode\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Solaric.GenerateCode\obj\Debug\Solaric.GenerateCode.csproj.AssemblyReference.cache
+E:\laps\LapsDemo\Solaric.GenerateCode\obj\Debug\Solaric.GenerateCode.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Solaric.GenerateCode\obj\Debug\Solaric.GenerateCode.csproj.CopyComplete
+E:\laps\LapsDemo\Solaric.GenerateCode\obj\Debug\Solaric.GenerateCode.dll
+E:\laps\LapsDemo\Solaric.GenerateCode\obj\Debug\Solaric.GenerateCode.pdb

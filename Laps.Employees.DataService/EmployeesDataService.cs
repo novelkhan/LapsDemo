@@ -107,5 +107,114 @@ namespace Laps.Employees.DataService
             }
             return ResultMsg;
         }
+
+
+        public string SaveEmployeeWithEducation(Azolution.Entities.HumanResource.Employees employees, List<Azolution.Entities.HumanResource.EmployeeEducation> educationList, List<int> removeEducationList)
+        {
+            string ResultMsg = "";
+            CommonConnection con = new CommonConnection();
+            try
+            {
+                con.BeginTransaction();
+                if (employees.EmployeeID == 0)
+                {
+                    string SaveQuery = string.Format(@"INSERT INTO Employees (FirstName, LastName, DateOfBirth, Gender, Email, MobileNo, CityID, Is_Active)
+              VALUES ('{0}', '{1}', '{2}', {3}, '{4}', '{5}', {6}, {7}); SELECT CAST(SCOPE_IDENTITY() as int)",
+                      employees.FirstName, employees.LastName, employees.DateOfBirth, employees.Gender,
+                      employees.Email, employees.MobileNo, employees.CityID, employees.Is_Active);
+
+                    int newEmployeeID = con.GetScaler(SaveQuery);
+
+                    // Save Education Records
+                    if (educationList != null && educationList.Count > 0)
+                    {
+                        foreach (var education in educationList)
+                        {
+                            string educationQuery = string.Format(@"INSERT INTO EmployeeEducation (EmployeeID, DegreeName, InstituteName, PassingYear, Result)
+                      VALUES ({0}, '{1}', '{2}', {3}, '{4}')",
+                              newEmployeeID, education.DegreeName, education.InstituteName, education.PassingYear, education.Result);
+                            con.ExecuteNonQuery(educationQuery);
+                        }
+                    }
+
+                    ResultMsg = "Success";
+                }
+                else
+                {
+                    string UpdateQuery = string.Format(@"UPDATE Employees SET FirstName = '{0}', LastName = '{1}', DateOfBirth = '{2}',
+              Gender = {3}, Email = '{4}', MobileNo = '{5}', CityID = {6}, Is_Active = {7} WHERE EmployeeID = {8}",
+                      employees.FirstName, employees.LastName, employees.DateOfBirth, employees.Gender, employees.Email,
+                      employees.MobileNo, employees.CityID, employees.Is_Active, employees.EmployeeID);
+                    con.ExecuteNonQuery(UpdateQuery);
+
+                    // Delete Removed Education Records
+                    if (removeEducationList != null && removeEducationList.Count > 0)
+                    {
+                        foreach (var educationId in removeEducationList)
+                        {
+                            if (educationId > 0)
+                            {
+                                string deleteEduQuery = string.Format(@"DELETE FROM EmployeeEducation WHERE EducationID = {0}", educationId);
+                                con.ExecuteNonQuery(deleteEduQuery);
+                            }
+                        }
+                    }
+
+                    // Save/Update Education Records
+                    if (educationList != null && educationList.Count > 0)
+                    {
+                        foreach (var education in educationList)
+                        {
+                            if (education.EducationID == 0)
+                            {
+                                string educationQuery = string.Format(@"INSERT INTO EmployeeEducation (EmployeeID, DegreeName, InstituteName, PassingYear, Result)
+                          VALUES ({0}, '{1}', '{2}', {3}, '{4}')",
+                                  employees.EmployeeID, education.DegreeName, education.InstituteName, education.PassingYear, education.Result);
+                                con.ExecuteNonQuery(educationQuery);
+                            }
+                            else
+                            {
+                                string updateEduQuery = string.Format(@"UPDATE EmployeeEducation SET DegreeName = '{0}', InstituteName = '{1}', 
+                          PassingYear = {2}, Result = '{3}' WHERE EducationID = {4}",
+                                  education.DegreeName, education.InstituteName, education.PassingYear, education.Result, education.EducationID);
+                                con.ExecuteNonQuery(updateEduQuery);
+                            }
+                        }
+                    }
+
+                    ResultMsg = "Update";
+                }
+                con.CommitTransaction();
+            }
+            catch (Exception ex)
+            {
+                ResultMsg = ex.Message;
+                con.RollBack();
+            }
+            finally
+            {
+                con.Close();
+            }
+            return ResultMsg;
+        }
+
+        public List<EmployeeEducation> GetEmployeeEducationByEmployeeID(int employeeId)
+        {
+            CommonConnection con = new CommonConnection();
+            try
+            {
+                con.BeginTransaction();
+                string query = string.Format(@"SELECT * FROM EmployeeEducation WHERE EmployeeID = {0}", employeeId);
+                return con.GenericDataSource<EmployeeEducation>(query);
+            }
+            catch (Exception)
+            {
+                return null;
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
     }
 }

@@ -12,3 +12,17 @@ E:\laps\LAPS_V_2_2_0\Laps.Employees.Service\obj\Debug\Laps.Employees.Service.csp
 E:\laps\LAPS_V_2_2_0\Laps.Employees.Service\obj\Debug\Laps.Employees.Service.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Laps.Employees.Service\obj\Debug\Laps.Employees.Service.dll
 E:\laps\LAPS_V_2_2_0\Laps.Employees.Service\obj\Debug\Laps.Employees.Service.pdb
+E:\laps\LapsDemo\Laps.Employees.Service\bin\Debug\Laps.Employees.Service.dll
+E:\laps\LapsDemo\Laps.Employees.Service\bin\Debug\Laps.Employees.Service.pdb
+E:\laps\LapsDemo\Laps.Employees.Service\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Laps.Employees.Service\bin\Debug\Laps.Employees.DataService.dll
+E:\laps\LapsDemo\Laps.Employees.Service\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\Laps.Employees.Service\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\Laps.Employees.Service\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\Laps.Employees.Service\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Laps.Employees.Service\bin\Debug\Laps.Employees.DataService.pdb
+E:\laps\LapsDemo\Laps.Employees.Service\obj\Debug\Laps.Employees.Service.csproj.AssemblyReference.cache
+E:\laps\LapsDemo\Laps.Employees.Service\obj\Debug\Laps.Employees.Service.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Laps.Employees.Service\obj\Debug\Laps.Employees.Service.csproj.CopyComplete
+E:\laps\LapsDemo\Laps.Employees.Service\obj\Debug\Laps.Employees.Service.dll
+E:\laps\LapsDemo\Laps.Employees.Service\obj\Debug\Laps.Employees.Service.pdb

@@ -11,6 +11,7 @@ namespace LAPS.Controllers
     public class EmployeesController : Controller
     {
         private Laps.Employees.Service.Interfaces.IEmployeeService _iemployeeService = new Laps.Employees.Service.Services.EmployeesService();
+
         public ActionResult Employees()
         {
             if (Session["CurrentUser"] != null)
@@ -42,5 +43,35 @@ namespace LAPS.Controllers
         {
             return Json(_iemployeeService.DeleteEmployee(id), JsonRequestBehavior.AllowGet);
         }
+
+        public ActionResult SaveEmployeeWithEducation(EmployeeWithEducationViewModel employee)
+        {
+            try
+            {
+                var data = _iemployeeService.SaveEmployeeWithEducation(
+                    employee,
+                    employee.EducationList ?? new List<Azolution.Entities.HumanResource.EmployeeEducation>(),
+                    employee.RemoveEducationList ?? new List<int>()
+                );
+                return Json(data, JsonRequestBehavior.AllowGet);
+            }
+            catch (Exception ex)
+            {
+                return Json("Error: " + ex.Message, JsonRequestBehavior.AllowGet);
+            }
+        }
+
+        public ActionResult GetEmployeeEducationByEmployeeID(int employeeId)
+        {
+            var data = _iemployeeService.GetEmployeeEducationByEmployeeID(employeeId);
+            return Json(data, JsonRequestBehavior.AllowGet);
+        }
+    }
+
+    // ViewModel তৈরি করুন
+    public class EmployeeWithEducationViewModel : Azolution.Entities.HumanResource.Employees
+    {
+        public List<Azolution.Entities.HumanResource.EmployeeEducation> EducationList { get; set; }
+        public List<int> RemoveEducationList { get; set; }
     }
 }

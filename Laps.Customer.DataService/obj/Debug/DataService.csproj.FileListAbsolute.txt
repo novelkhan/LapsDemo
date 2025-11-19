@@ -143,3 +143,14 @@ E:\laps\LAPS_V_2_2_0\Laps.Customer.DataService\obj\Debug\DataService.csproj.Core
 E:\laps\LAPS_V_2_2_0\Laps.Customer.DataService\obj\Debug\DataService.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Laps.Customer.DataService\obj\Debug\Laps.Customer.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.Customer.DataService\obj\Debug\Laps.Customer.DataService.pdb
+E:\laps\LapsDemo\Laps.Customer.DataService\bin\Debug\Laps.Customer.DataService.dll
+E:\laps\LapsDemo\Laps.Customer.DataService\bin\Debug\Laps.Customer.DataService.pdb
+E:\laps\LapsDemo\Laps.Customer.DataService\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Laps.Customer.DataService\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\Laps.Customer.DataService\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\Laps.Customer.DataService\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\Laps.Customer.DataService\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Laps.Customer.DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Laps.Customer.DataService\obj\Debug\DataService.csproj.CopyComplete
+E:\laps\LapsDemo\Laps.Customer.DataService\obj\Debug\Laps.Customer.DataService.dll
+E:\laps\LapsDemo\Laps.Customer.DataService\obj\Debug\Laps.Customer.DataService.pdb

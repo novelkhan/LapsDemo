@@ -61,3 +61,8 @@ E:\laps\LAPS_V_2_2_0\Azolution.Entities\bin\Debug\Azolution.Entities.pdb
 E:\laps\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.csproj.CoreCompileInputs.cache
 E:\laps\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.dll
 E:\laps\LAPS_V_2_2_0\Azolution.Entities\obj\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Azolution.Entities\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Azolution.Entities\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Azolution.Entities\obj\Debug\Azolution.Entities.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Azolution.Entities\obj\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Azolution.Entities\obj\Debug\Azolution.Entities.pdb

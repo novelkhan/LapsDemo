@@ -13,5 +13,7 @@ namespace Laps.Employees.Service.Interfaces
         GridEntity<Azolution.Entities.HumanResource.Employees> EmployeesGrid(GridOptions options);
         string SaveEmployee(Azolution.Entities.HumanResource.Employees employees);
         string DeleteEmployee(int id);
+        string SaveEmployeeWithEducation(Azolution.Entities.HumanResource.Employees employees, List<Azolution.Entities.HumanResource.EmployeeEducation> educationList, List<int> removeEducationList);
+        List<Azolution.Entities.HumanResource.EmployeeEducation> GetEmployeeEducationByEmployeeID(int employeeId);
     }
 }

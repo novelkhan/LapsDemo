@@ -170,3 +170,17 @@ E:\laps\LAPS_V_2_2_0\Report\obj\Debug\LapsReportService.csproj.CoreCompileInputs
 E:\laps\LAPS_V_2_2_0\Report\obj\Debug\LapsReportService.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Report\obj\Debug\Report.dll
 E:\laps\LAPS_V_2_2_0\Report\obj\Debug\Report.pdb
+E:\laps\LapsDemo\Report\bin\Debug\Report.dll
+E:\laps\LapsDemo\Report\bin\Debug\Report.pdb
+E:\laps\LapsDemo\Report\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Report\bin\Debug\ReportDataService.dll
+E:\laps\LapsDemo\Report\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\Report\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\Report\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\Report\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Report\bin\Debug\ReportDataService.pdb
+E:\laps\LapsDemo\Report\obj\Debug\LapsReportService.csproj.AssemblyReference.cache
+E:\laps\LapsDemo\Report\obj\Debug\LapsReportService.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Report\obj\Debug\LapsReportService.csproj.CopyComplete
+E:\laps\LapsDemo\Report\obj\Debug\Report.dll
+E:\laps\LapsDemo\Report\obj\Debug\Report.pdb

@@ -2211,6 +2211,7 @@
     <Content Include="Scripts\eAzolution\HumanResource\TeacherEducationInfo\TeacherEducationInfoDetails.js" />
     <Content Include="Scripts\eAzolution\HumanResource\TeacherEducationInfo\TeacherEducationInfoSetting.js" />
     <Content Include="Scripts\eAzolution\HumanResource\TeacherEducationInfo\TeacherEducationInfoSummary.js" />
+    <Content Include="Scripts\eAzolution\NEmployees\NEmployeeEducation.js" />
     <Content Include="Scripts\eAzolution\NEmployees\NEmployeesDetails.js" />
     <Content Include="Scripts\eAzolution\NEmployees\NEmployeesSettings.js" />
     <Content Include="Scripts\eAzolution\NEmployees\NEmployeesSummary.js" />
@@ -4758,6 +4759,7 @@
     <Content Include="Views\NEmployee\_NEmployeesDetails.cshtml" />
     <Content Include="Views\NEmployee\NEmployeesSettings.cshtml" />
     <Content Include="Views\NEmployee\_NEmployeesSummary.cshtml" />
+    <Content Include="Views\NEmployee\_NEmployeeEducation.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

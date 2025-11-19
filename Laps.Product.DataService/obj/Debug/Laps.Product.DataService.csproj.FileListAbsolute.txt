@@ -156,3 +156,16 @@ E:\laps\LAPS_V_2_2_0\Laps.Product.DataService\obj\Debug\Laps.Product.DataService
 E:\laps\LAPS_V_2_2_0\Laps.Product.DataService\obj\Debug\Laps.Product.DataService.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Laps.Product.DataService\obj\Debug\Laps.Product.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.Product.DataService\obj\Debug\Laps.Product.DataService.pdb
+E:\laps\LapsDemo\Laps.Product.DataService\bin\Debug\Laps.Product.DataService.dll
+E:\laps\LapsDemo\Laps.Product.DataService\bin\Debug\Laps.Product.DataService.pdb
+E:\laps\LapsDemo\Laps.Product.DataService\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Laps.Product.DataService\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\laps\LapsDemo\Laps.Product.DataService\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\Laps.Product.DataService\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\Laps.Product.DataService\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\Laps.Product.DataService\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Laps.Product.DataService\obj\Debug\Laps.Product.DataService.csproj.AssemblyReference.cache
+E:\laps\LapsDemo\Laps.Product.DataService\obj\Debug\Laps.Product.DataService.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Laps.Product.DataService\obj\Debug\Laps.Product.DataService.csproj.CopyComplete
+E:\laps\LapsDemo\Laps.Product.DataService\obj\Debug\Laps.Product.DataService.dll
+E:\laps\LapsDemo\Laps.Product.DataService\obj\Debug\Laps.Product.DataService.pdb

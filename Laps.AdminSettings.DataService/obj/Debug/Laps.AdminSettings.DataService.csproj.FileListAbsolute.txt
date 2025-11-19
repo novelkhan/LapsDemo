@@ -143,3 +143,15 @@ E:\laps\LAPS_V_2_2_0\Laps.AdminSettings.DataService\obj\Debug\Laps.AdminSettings
 E:\laps\LAPS_V_2_2_0\Laps.AdminSettings.DataService\obj\Debug\Laps.AdminSettings.DataService.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Laps.AdminSettings.DataService\obj\Debug\Laps.AdminSettings.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.AdminSettings.DataService\obj\Debug\Laps.AdminSettings.DataService.pdb
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\bin\Debug\Laps.AdminSettings.DataService.dll
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\bin\Debug\Laps.AdminSettings.DataService.pdb
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\obj\Debug\Laps.AdminSettings.DataService.csproj.AssemblyReference.cache
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\obj\Debug\Laps.AdminSettings.DataService.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\obj\Debug\Laps.AdminSettings.DataService.csproj.CopyComplete
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\obj\Debug\Laps.AdminSettings.DataService.dll
+E:\laps\LapsDemo\Laps.AdminSettings.DataService\obj\Debug\Laps.AdminSettings.DataService.pdb

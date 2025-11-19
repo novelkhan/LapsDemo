@@ -78,3 +78,10 @@ E:\laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.csproj.CoreCompileInputs.
 E:\laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.dll
 E:\laps\LAPS_V_2_2_0\LapsUtility\obj\Debug\LapsUtility.pdb
+E:\laps\LapsDemo\LapsUtility\bin\Debug\LapsUtility.dll
+E:\laps\LapsDemo\LapsUtility\bin\Debug\LapsUtility.pdb
+E:\laps\LapsDemo\LapsUtility\bin\Debug\Newtonsoft.Json.dll
+E:\laps\LapsDemo\LapsUtility\obj\Debug\LapsUtility.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\LapsUtility\obj\Debug\LapsUtility.csproj.CopyComplete
+E:\laps\LapsDemo\LapsUtility\obj\Debug\LapsUtility.dll
+E:\laps\LapsDemo\LapsUtility\obj\Debug\LapsUtility.pdb

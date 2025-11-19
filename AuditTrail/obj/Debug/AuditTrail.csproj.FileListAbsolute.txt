@@ -117,3 +117,13 @@ E:\laps\LAPS_V_2_2_0\AuditTrail\obj\Debug\AuditTrail.csproj.CoreCompileInputs.ca
 E:\laps\LAPS_V_2_2_0\AuditTrail\obj\Debug\AuditTrail.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\AuditTrail\obj\Debug\AuditTrail.dll
 E:\laps\LAPS_V_2_2_0\AuditTrail\obj\Debug\AuditTrail.pdb
+E:\laps\LapsDemo\AuditTrail\bin\Debug\AuditTrail.dll
+E:\laps\LapsDemo\AuditTrail\bin\Debug\AuditTrail.pdb
+E:\laps\LapsDemo\AuditTrail\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\AuditTrail\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\AuditTrail\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\AuditTrail\obj\Debug\AuditTrail.csproj.AssemblyReference.cache
+E:\laps\LapsDemo\AuditTrail\obj\Debug\AuditTrail.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\AuditTrail\obj\Debug\AuditTrail.csproj.CopyComplete
+E:\laps\LapsDemo\AuditTrail\obj\Debug\AuditTrail.dll
+E:\laps\LapsDemo\AuditTrail\obj\Debug\AuditTrail.pdb

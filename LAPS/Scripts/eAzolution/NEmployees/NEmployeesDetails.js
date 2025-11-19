@@ -1,5 +1,4 @@
-﻿
-var EmployeeDetailsManeger = {
+﻿var EmployeeDetailsManeger = {
 
     PopulateCities: function () {
         var CityObj = new Object();
@@ -16,14 +15,17 @@ var EmployeeDetailsManeger = {
     },
 
     SaveEmployee: function () {
-        var object = EmployeeDetailsHelper.CreateEmployeeFields();
-        EmployeeDetailsHelper.ClearFrom();
+        var employeeObj = EmployeeDetailsHelper.CreateEmployeeFields();
+        EmployeeEducationHelper.CreateEmployeeEducationList();
 
-        var obj = JSON.stringify(object);
+        // Employee Object এ Education List add করে দিচ্ছি
+        employeeObj.EducationList = employeeEducationArray;
+        employeeObj.RemoveEducationList = removeEducationArray;
+
+        var obj = JSON.stringify(employeeObj);
         var jsonParam = 'employee:' + obj;
-        var serviceUrl = "../Employees/SaveEmployee";
+        var serviceUrl = "../Employees/SaveEmployeeWithEducation";
         AjaxManager.SendJson2(serviceUrl, jsonParam, onSuccess, onFailed);
-
 
         function onSuccess(jsonData) {
             if (jsonData == "Success") {
@@ -35,6 +37,7 @@ var EmployeeDetailsManeger = {
                             onClick: function ($noty) {
                                 $noty.close();
                                 $("#employeeSummaryDiv").data("kendoGrid").dataSource.read();
+                                EmployeeDetailsHelper.ClearFrom();
                             }
                         }
                     ]);
@@ -48,6 +51,7 @@ var EmployeeDetailsManeger = {
                             onClick: function ($noty) {
                                 $noty.close();
                                 $("#employeeSummaryDiv").data("kendoGrid").dataSource.read();
+                                EmployeeDetailsHelper.ClearFrom();
                             }
                         }
                     ]);
@@ -82,14 +86,14 @@ var EmployeeDetailsHelper = {
     CreateEmployeeFields: function () {
         var obj = new Object();
 
-        obj.EmployeeID = $("#hdnEmployeeID").val();
+        obj.EmployeeID = $("#hdnEmployeeID").val() == "" ? 0 : $("#hdnEmployeeID").val();
         obj.FirstName = $('#txtFirstName').val();
         obj.LastName = $('#txtLastName').val();
         obj.DateOfBirth = $('#txtDateOfBirth').val();
-        obj.Gender = $('input[name = "Gender"]:checked').val();
+        obj.Gender = $('input[name = "Gender"]:checked').val() == undefined ? 0 : $('input[name = "Gender"]:checked').val();
         obj.Email = $("#txtEmail").val();
         obj.MobileNo = $('#txtMobileNo').val();
-        obj.CityID = $('#city').val();
+        obj.CityID = $('#city').val() == "" ? 0 : $('#city').val();
         obj.Is_Active = $("#chkIs_Active").is(":checked") == true ? 1 : 0;
         return obj;
     },
@@ -112,5 +116,7 @@ var EmployeeDetailsHelper = {
         $("#txtMobileNo").val("");
         $("#city").data("kendoComboBox").value("");
         $("#chkIs_Active").removeAttr('checked', 'checked');
+
+        EmployeeEducationHelper.ClearEducationGrid();
     },
 };

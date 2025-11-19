@@ -156,3 +156,16 @@ E:\laps\LAPS_V_2_2_0\Laps.Stock.DataService\obj\Debug\Laps.Stock.DataService.csp
 E:\laps\LAPS_V_2_2_0\Laps.Stock.DataService\obj\Debug\Laps.Stock.DataService.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Laps.Stock.DataService\obj\Debug\Laps.Stock.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.Stock.DataService\obj\Debug\Laps.Stock.DataService.pdb
+E:\laps\LapsDemo\Laps.Stock.DataService\bin\Debug\Laps.Stock.DataService.dll
+E:\laps\LapsDemo\Laps.Stock.DataService\bin\Debug\Laps.Stock.DataService.pdb
+E:\laps\LapsDemo\Laps.Stock.DataService\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Laps.Stock.DataService\bin\Debug\mysql.data.dll
+E:\laps\LapsDemo\Laps.Stock.DataService\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\Laps.Stock.DataService\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\Laps.Stock.DataService\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\Laps.Stock.DataService\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Laps.Stock.DataService\obj\Debug\Laps.Stock.DataService.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Laps.Stock.DataService\obj\Debug\Laps.Stock.DataService.csproj.CopyComplete
+E:\laps\LapsDemo\Laps.Stock.DataService\obj\Debug\Laps.Stock.DataService.dll
+E:\laps\LapsDemo\Laps.Stock.DataService\obj\Debug\Laps.Stock.DataService.pdb
+E:\laps\LapsDemo\Laps.Stock.DataService\obj\Debug\Laps.Stock.DataService.csproj.AssemblyReference.cache

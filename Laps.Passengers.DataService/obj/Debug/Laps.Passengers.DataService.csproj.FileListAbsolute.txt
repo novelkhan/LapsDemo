@@ -41,3 +41,14 @@ E:\laps\LAPS_V_2_2_0\Laps.Passengers.DataService\obj\Debug\Laps.Passengers.DataS
 E:\laps\LAPS_V_2_2_0\Laps.Passengers.DataService\obj\Debug\Laps.Passengers.DataService.csproj.CopyComplete
 E:\laps\LAPS_V_2_2_0\Laps.Passengers.DataService\obj\Debug\Laps.Passengers.DataService.dll
 E:\laps\LAPS_V_2_2_0\Laps.Passengers.DataService\obj\Debug\Laps.Passengers.DataService.pdb
+E:\laps\LapsDemo\Laps.Passengers.DataService\bin\Debug\Laps.Passengers.DataService.dll
+E:\laps\LapsDemo\Laps.Passengers.DataService\bin\Debug\Laps.Passengers.DataService.pdb
+E:\laps\LapsDemo\Laps.Passengers.DataService\bin\Debug\Azolution.Entities.dll
+E:\laps\LapsDemo\Laps.Passengers.DataService\bin\Debug\Utilities.dll
+E:\laps\LapsDemo\Laps.Passengers.DataService\bin\Debug\Azolution.Common.DataService.dll
+E:\laps\LapsDemo\Laps.Passengers.DataService\bin\Debug\Azolution.Common.dll
+E:\laps\LapsDemo\Laps.Passengers.DataService\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Laps.Passengers.DataService\obj\Debug\Laps.Passengers.DataService.csproj.CoreCompileInputs.cache
+E:\laps\LapsDemo\Laps.Passengers.DataService\obj\Debug\Laps.Passengers.DataService.csproj.CopyComplete
+E:\laps\LapsDemo\Laps.Passengers.DataService\obj\Debug\Laps.Passengers.DataService.dll
+E:\laps\LapsDemo\Laps.Passengers.DataService\obj\Debug\Laps.Passengers.DataService.pdb
