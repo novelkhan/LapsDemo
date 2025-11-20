@@ -218,3 +218,47 @@ namespace Laps.Employees.DataService
         }
     }
 }
+
+//CREATE TABLE Employees (
+//    EmployeeID INT PRIMARY KEY IDENTITY(1,1),
+//    FirstName NVARCHAR(50),
+//    LastName NVARCHAR(50),
+//    DateOfBirth DATETIME,
+//    Gender INT,
+//    Email NVARCHAR(50),
+//    MobileNo NVARCHAR(50),
+//    CityID INT,
+//    Is_Active INT
+//);
+
+
+
+//CREATE TABLE Cities (
+//    CityID INT PRIMARY KEY IDENTITY(1,1),
+//    CityName NVARCHAR(50)
+//);
+
+
+
+//CREATE TABLE EmployeeEducation (
+//    EducationID INT PRIMARY KEY IDENTITY(1,1),
+//    EmployeeID INT NOT NULL,
+//    DegreeName NVARCHAR(100),
+//    InstituteName NVARCHAR(100),
+//    PassingYear INT,
+//    Result NVARCHAR(50),
+//    FOREIGN KEY(EmployeeID) REFERENCES Employees(EmployeeID)
+//        ON DELETE CASCADE
+//);
+
+
+//INSERT INTO Cities (CityName)
+//VALUES
+//('Dhaka'),
+//('Tangail'),
+//('Chattogram'),
+//('Rajshahi'),
+//('Khulna'),
+//('Barishal'),
+//('Sylhet'),
+//('Rangpur');
