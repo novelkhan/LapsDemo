@@ -135,7 +135,6 @@ E:\laps\LapsDemo\Azolution.BulkUploadDataService\bin\Debug\Azolution.Common.Data
 E:\laps\LapsDemo\Azolution.BulkUploadDataService\bin\Debug\Azolution.Common.dll
 E:\laps\LapsDemo\Azolution.BulkUploadDataService\bin\Debug\Oracle.DataAccess.dll
 E:\laps\LapsDemo\Azolution.BulkUploadDataService\bin\Debug\Utilities.dll
-E:\laps\LapsDemo\Azolution.BulkUploadDataService\obj\Debug\Azolution.BulkUploadDataService.csproj.AssemblyReference.cache
 E:\laps\LapsDemo\Azolution.BulkUploadDataService\obj\Debug\Azolution.BulkUploadDataService.csproj.CoreCompileInputs.cache
 E:\laps\LapsDemo\Azolution.BulkUploadDataService\obj\Debug\Azolution.BulkUploadDataService.csproj.CopyComplete
 E:\laps\LapsDemo\Azolution.BulkUploadDataService\obj\Debug\Azolution.BulkUploadDataService.dll

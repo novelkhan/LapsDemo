@@ -227,7 +227,6 @@ E:\laps\LapsDemo\[Laps].Laptop.Service\bin\roslyn\VBCSCompiler.exe
 E:\laps\LapsDemo\[Laps].Laptop.Service\bin\roslyn\VBCSCompiler.exe.config
 E:\laps\LapsDemo\[Laps].Laptop.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\laps\LapsDemo\[Laps].Laptop.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\laps\LapsDemo\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.AssemblyReference.cache
 E:\laps\LapsDemo\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.CoreCompileInputs.cache
 E:\laps\LapsDemo\[Laps].Laptop.Service\obj\Debug\Laps.Laptop.Service.csproj.CopyComplete
 E:\laps\LapsDemo\[Laps].Laptop.Service\obj\Debug\[Laps].Laptop.Service.dll

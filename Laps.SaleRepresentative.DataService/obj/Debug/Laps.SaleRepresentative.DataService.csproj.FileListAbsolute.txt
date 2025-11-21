@@ -149,3 +149,4 @@ E:\laps\LapsDemo\Laps.SaleRepresentative.DataService\obj\Debug\Laps.SaleRepresen
 E:\laps\LapsDemo\Laps.SaleRepresentative.DataService\obj\Debug\Laps.SaleRepresentative.DataService.csproj.CopyComplete
 E:\laps\LapsDemo\Laps.SaleRepresentative.DataService\obj\Debug\Laps.SaleRepresentative.DataService.dll
 E:\laps\LapsDemo\Laps.SaleRepresentative.DataService\obj\Debug\Laps.SaleRepresentative.DataService.pdb
+E:\laps\LapsDemo\Laps.SaleRepresentative.DataService\obj\Debug\Laps.SaleRepresentative.DataService.csproj.AssemblyReference.cache

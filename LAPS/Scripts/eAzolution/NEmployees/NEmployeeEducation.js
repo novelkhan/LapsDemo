@@ -25,7 +25,27 @@ var EmployeeEducationManager = {
                 { field: "EducationID", title: "Education ID", hidden: true, width: 60 },
                 { field: "DegreeName", title: "Degree Name", width: 100 },
                 { field: "InstituteName", title: "Institute Name", width: 120 },
-                { field: "PassingYear", title: "Passing Year", width: 80 },
+                {
+                    field: "PassingYear",
+                    title: "Passing Year",
+                    width: 80,
+                    template: function (dataItem) {
+                        return (dataItem.PassingYear == 0 || dataItem.PassingYear == null)
+                            ? ""
+                            : dataItem.PassingYear;
+                    },
+                    editor: function (container, options) {
+                        $('<input name="' + options.field + '"/>')
+                            .appendTo(container)
+                            .kendoNumericTextBox({
+                                format: "#",
+                                decimals: 0,
+                                min: 1900,
+                                max: 2100,
+                                placeholder: "Enter Year"
+                            });
+                    }
+                },
                 { field: "Result", title: "Result", width: 80 },
                 {
                     field: "Delete",

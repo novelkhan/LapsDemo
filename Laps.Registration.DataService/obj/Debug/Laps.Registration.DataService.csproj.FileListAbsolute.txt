@@ -31,4 +31,3 @@ E:\laps\LapsDemo\Laps.Registration.DataService\obj\Debug\Laps.Registration.DataS
 E:\laps\LapsDemo\Laps.Registration.DataService\obj\Debug\Laps.Registration.DataService.csproj.CopyComplete
 E:\laps\LapsDemo\Laps.Registration.DataService\obj\Debug\Laps.Registration.DataService.dll
 E:\laps\LapsDemo\Laps.Registration.DataService\obj\Debug\Laps.Registration.DataService.pdb
-E:\laps\LapsDemo\Laps.Registration.DataService\obj\Debug\Laps.Registration.DataService.csproj.AssemblyReference.cache

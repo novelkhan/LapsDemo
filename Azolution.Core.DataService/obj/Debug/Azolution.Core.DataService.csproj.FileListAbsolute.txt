@@ -151,7 +151,6 @@ E:\laps\LapsDemo\Azolution.Core.DataService\bin\Debug\Azolution.Common.dll
 E:\laps\LapsDemo\Azolution.Core.DataService\bin\Debug\Azolution.Entities.dll
 E:\laps\LapsDemo\Azolution.Core.DataService\bin\Debug\Utilities.dll
 E:\laps\LapsDemo\Azolution.Core.DataService\bin\Debug\Azolution.Entities.pdb
-E:\laps\LapsDemo\Azolution.Core.DataService\obj\Debug\Azolution.Core.DataService.csproj.AssemblyReference.cache
 E:\laps\LapsDemo\Azolution.Core.DataService\obj\Debug\Azolution.Core.DataService.csproj.CoreCompileInputs.cache
 E:\laps\LapsDemo\Azolution.Core.DataService\obj\Debug\Azolution.Core.DataService.csproj.CopyComplete
 E:\laps\LapsDemo\Azolution.Core.DataService\obj\Debug\Azolution.Core.DataService.dll

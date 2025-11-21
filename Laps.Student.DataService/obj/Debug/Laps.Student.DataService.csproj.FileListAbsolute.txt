@@ -40,6 +40,7 @@ E:\laps\LapsDemo\Laps.Student.DataService\bin\Debug\Utilities.dll
 E:\laps\LapsDemo\Laps.Student.DataService\bin\Debug\Azolution.Common.DataService.dll
 E:\laps\LapsDemo\Laps.Student.DataService\bin\Debug\Azolution.Common.dll
 E:\laps\LapsDemo\Laps.Student.DataService\bin\Debug\Azolution.Entities.pdb
+E:\laps\LapsDemo\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.csproj.AssemblyReference.cache
 E:\laps\LapsDemo\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.csproj.CoreCompileInputs.cache
 E:\laps\LapsDemo\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.csproj.CopyComplete
 E:\laps\LapsDemo\Laps.Student.DataService\obj\Debug\Laps.Student.DataService.dll
