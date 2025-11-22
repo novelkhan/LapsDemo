@@ -104,6 +104,34 @@ var EmployeeDetailsHelper = {
         });
     },
 
+    PrintEmployeeReport: function () {
+
+
+        var jsonParam = "";
+
+        var url = "../Employees/GetEmployeeReport";
+
+        AjaxManager.SendJson2(url, jsonParam, onSuccess, onFailed);
+
+        function onSuccess(jsonData) {
+
+            if (jsonData == "Success") {
+                window.open('../Reports/LapsRepot.aspx', '_blank');
+            }
+        }
+        function onFailed(error) {
+
+            AjaxManager.MsgBox('error', 'center', 'Error', error.statusText,
+                [{
+                    addClass: 'btn btn-primary',
+                    text: 'Ok',
+                    onClick: function ($noty) {
+                        $noty.close();
+                    }
+                }]);
+        }
+    },
+
     ClearFrom: function () {
         $("#btnSave").text("Save");
         $("#btnClearAll").text("Clear");

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Azolution.Entities.Report;
 using Laps.Employees.Service.Services;
 using Utilities;
 
@@ -65,6 +66,24 @@ namespace LAPS.Controllers
         {
             var data = _iemployeeService.GetEmployeeEducationByEmployeeID(employeeId);
             return Json(data, JsonRequestBehavior.AllowGet);
+        }
+
+        public ActionResult GetEmployeeReport()
+        {
+            try
+            {
+                var data = new ReportData<Azolution.Entities.HumanResource.Employees>();
+
+
+                data.DataSource = _iemployeeService.GetEmpReport();
+                data.RptName = "Employee.rpt";
+                Session["report"] = data;
+                return Json(Utilities.Operation.Success.ToString(), JsonRequestBehavior.AllowGet);
+            }
+            catch (Exception e)
+            {
+                throw new Exception(e.Message);
+            }
         }
     }
 

@@ -216,6 +216,16 @@ namespace Laps.Employees.DataService
                 con.Close();
             }
         }
+
+
+        public List<Azolution.Entities.HumanResource.Employees> GetEmployeeReport()
+        {
+
+            string sql = string.Format(@"Select * from Employees");
+
+
+            return Data<Azolution.Entities.HumanResource.Employees>.DataSource(sql);
+        }
     }
 }
 

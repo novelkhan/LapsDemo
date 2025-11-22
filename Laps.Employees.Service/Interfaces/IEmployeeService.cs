@@ -15,5 +15,6 @@ namespace Laps.Employees.Service.Interfaces
         string DeleteEmployee(int id);
         string SaveEmployeeWithEducation(Azolution.Entities.HumanResource.Employees employees, List<Azolution.Entities.HumanResource.EmployeeEducation> educationList, List<int> removeEducationList);
         List<Azolution.Entities.HumanResource.EmployeeEducation> GetEmployeeEducationByEmployeeID(int employeeId);
+        List<Azolution.Entities.HumanResource.Employees> GetEmpReport();
     }
 }

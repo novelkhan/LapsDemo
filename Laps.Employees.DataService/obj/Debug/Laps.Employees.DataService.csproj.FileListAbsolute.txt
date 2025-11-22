@@ -21,3 +21,4 @@ E:\laps\LapsDemo\Laps.Employees.DataService\obj\Debug\Laps.Employees.DataService
 E:\laps\LapsDemo\Laps.Employees.DataService\obj\Debug\Laps.Employees.DataService.csproj.CopyComplete
 E:\laps\LapsDemo\Laps.Employees.DataService\obj\Debug\Laps.Employees.DataService.dll
 E:\laps\LapsDemo\Laps.Employees.DataService\obj\Debug\Laps.Employees.DataService.pdb
+E:\laps\LapsDemo\Laps.Employees.DataService\obj\Debug\Laps.Employees.DataService.csproj.AssemblyReference.cache

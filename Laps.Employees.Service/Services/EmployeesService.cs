@@ -40,5 +40,10 @@ namespace Laps.Employees.Service.Services
         {
             return _empployeesDataService.GetEmployeeEducationByEmployeeID(employeeId);
         }
+
+        public List<Azolution.Entities.HumanResource.Employees> GetEmpReport()
+        {
+            return _empployeesDataService.GetEmployeeReport();
+        }
     }
 }

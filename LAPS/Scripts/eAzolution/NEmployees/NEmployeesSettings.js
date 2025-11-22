@@ -7,5 +7,10 @@
         EmployeeDetailsManeger.SaveEmployee();
     });
 
+    $("#btnPrint").click(function () {
+        debugger;
+        EmployeeDetailsHelper.PrintEmployeeReport();
+    });
+
     EmployeeSummaryHelper.GenerateEmployeeGrid();
 });

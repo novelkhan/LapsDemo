@@ -155,3 +155,4 @@ E:\laps\LapsDemo\Azolution.Core.DataService\obj\Debug\Azolution.Core.DataService
 E:\laps\LapsDemo\Azolution.Core.DataService\obj\Debug\Azolution.Core.DataService.csproj.CopyComplete
 E:\laps\LapsDemo\Azolution.Core.DataService\obj\Debug\Azolution.Core.DataService.dll
 E:\laps\LapsDemo\Azolution.Core.DataService\obj\Debug\Azolution.Core.DataService.pdb
+E:\laps\LapsDemo\Azolution.Core.DataService\obj\Debug\Azolution.Core.DataService.csproj.AssemblyReference.cache
